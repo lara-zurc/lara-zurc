@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**lara-zurc/lara-zurc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Lara 👩‍💻.
+
+@@ I'm a accounting student at FEA USP RP @@
+- Living in Brazil 🇧🇷.
+- 21 years old
+- She/Her
+# 🌱 Member of Data Girls - Neuron
+
+<code><a href="https://www.instagram.com/lara.zurc/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a> 
+    <a href="https://www.linkedin.com/in/laracruz/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
+  </code>
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?lara-zurc=lara-zurc&hide=html&layout=compact&theme=buefy" />  
