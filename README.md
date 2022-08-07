@@ -2,7 +2,7 @@
 #### São Paulo, SP, Brasil.  
 ##### 
 <a href="https://www.linkedin.com/in/laracruz/" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" height="30" ></a>
-<a href="https://degreed.com/profile/laracruz/" target="blank"> <img src="https://cdn-icons.flaticon.com/png/512/1549/premium/1549612.png?token=exp=1655584803~hmac=2ad137b363918df0e0c8f590e12b3a10" height="30" ></a>
+<a href="https://degreed.com/profile/laracruz/" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/7604/7604628.png" height="30" ></a>
 <a href="https://www.twitter.com/larazurc" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/2168/2168336.png" height="30"></a>
     
     
@@ -41,6 +41,7 @@
 | Course                                     | Place        | Skills                     | 
 |--------------------------------------------|--------------|------------------------------|
 | Curso Web Moderno Completo com JavaScript 2022 + Projetos                  | Udemy          | Javascript |
+| Google Data Analytics Certificate                | Coursera          |  |
 
 
     
