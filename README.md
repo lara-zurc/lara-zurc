@@ -17,7 +17,7 @@ Data Science - Big Data, BI & Data Engineering    FIAP   2023-2024
 
 | Course                                     | Place        | Hours | Skills                                  |
 |--------------------------------------------|--------------|-------|-----------------------------------------|
-| D&A Foundations                | Itau/Degreed          | +180h | Data & Analytics Foundations |
+| D&A Foundations                | Itau/Degreed          | 6h | Data & Analytics Foundations |
 | Google Data Analytics Certificate                | Coursera          | +180h | Data Analytics, R, Tableau, SQL |
 | Take Blip Web Developer                    | DIO          | 78h | HTML, CSS, Javascript, Git/GitHub, MySQL, Bootstrap |
 | Git e Github            | Itau/Degreed   | 2h | Git, Github                            |
